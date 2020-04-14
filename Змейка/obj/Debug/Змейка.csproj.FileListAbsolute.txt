@@ -1,0 +1,7 @@
+Z:\РКиС\Змейка\Змейка\bin\Debug\Змейка.exe.config
+Z:\РКиС\Змейка\Змейка\bin\Debug\Змейка.exe
+Z:\РКиС\Змейка\Змейка\bin\Debug\Змейка.pdb
+Z:\РКиС\Змейка\Змейка\obj\Debug\Змейка.csprojAssemblyReference.cache
+Z:\РКиС\Змейка\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+Z:\РКиС\Змейка\Змейка\obj\Debug\Змейка.exe
+Z:\РКиС\Змейка\Змейка\obj\Debug\Змейка.pdb
